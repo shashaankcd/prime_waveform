@@ -30,7 +30,6 @@ This is part of an open-access contribution to mathematical exploration.
 Feel free to open issues or submit pull requests!
 
 ## 📬 Contact
-✉️ Email: cdshashaank@outlook.com
 🌐 ORCID: 0009-0006-0174-189X
 🔗 LinkedIn: Shashaank CD
 
