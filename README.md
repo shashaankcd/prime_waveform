@@ -20,7 +20,7 @@ This project provides Python scripts and datasets to generate **prime gap wavefo
 
 ## 📚 Dataset & Paper
 
-- 📦 Full datasets up to 1 Billion numbers: Zenodo DOI
+- 📦 Full datasets up to 1 Billion numbers: Zenodo DOI [https://zenodo.org/records/15636895]
 - 📝 Preprint (coming soon): [arXiv link]
 
 ## 🙋‍♂️ Who Maintains This
