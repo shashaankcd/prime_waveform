@@ -26,3 +26,26 @@ Make sure you have Python 3.8+ and the following libraries:
 
 ```bash
 pip install sympy matplotlib pandas numpy scipy
+
+📚 Dataset & Paper
+
+    📦 Full datasets up to 1 Billion numbers: Zenodo DOI
+
+    📝 Preprint (coming soon): [arXiv link]
+
+🙋‍♂️ Who Maintains This
+
+Created and maintained by Shashaank C D, independent researcher.
+This is part of an open-access contribution to mathematical exploration.
+Feel free to open issues or submit pull requests!
+📬 Contact
+
+    ✉️ Email: cdshashaank@outlook.com
+
+    🌐 ORCID: 0009-0006-0174-189X
+
+    🔗 LinkedIn: Shashaank CD
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
