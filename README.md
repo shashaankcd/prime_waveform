@@ -18,23 +18,23 @@ This project provides Python scripts and datasets to generate **prime gap wavefo
   - Data-driven signal analysis (without traditional signal tools)
 - Can support further research in number theory or AI pattern detection
 
-##📚 Dataset & Paper
+## 📚 Dataset & Paper
 
 - 📦 Full datasets up to 1 Billion numbers: Zenodo DOI
 - 📝 Preprint (coming soon): [arXiv link]
 
-##🙋‍♂️ Who Maintains This
+## 🙋‍♂️ Who Maintains This
 
 Created and maintained by Shashaank C D, independent researcher.
 This is part of an open-access contribution to mathematical exploration.
 Feel free to open issues or submit pull requests!
 
-##📬 Contact
+## 📬 Contact
 ✉️ Email: cdshashaank@outlook.com
 🌐 ORCID: 0009-0006-0174-189X
 🔗 LinkedIn: Shashaank CD
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
